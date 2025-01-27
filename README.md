@@ -1,6 +1,6 @@
 ## Hi there 👋
-// 🔭 Working on graduating and building my IT and cybersecurity skills.
-🌱 Learning multitasking, time management, and cybersecurity skills.
+- 🔭 Working on graduating and building my IT and cybersecurity skills.
+- 🌱 Learning multitasking, time management, and cybersecurity skills.
 👯 Seeking collaboration on IT/security projects for my resume.
 🤔 Looking for interview prep and career advice.
 
